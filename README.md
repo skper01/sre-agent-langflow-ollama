@@ -32,8 +32,10 @@ After installation, pull the required models:
 ollama pull openchat
 ollama pull deepseek
 
-
 ChromaDB (installed as Python package or containerized)
+
+
+
 📂 Project Structure
 sre-agent-langflow/
 │── README.md            # This file
