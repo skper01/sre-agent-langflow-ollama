@@ -23,10 +23,17 @@ Langflow 1.5.13
 
 Python 3.10+
 
-Ollama installed locally with models (openchat and deepseek)
+Ollama installed locally
+
+Download Ollama
+
+After installation, pull the required models:
+
+ollama pull openchat
+ollama pull deepseek
+
 
 ChromaDB (installed as Python package or containerized)
-
 📂 Project Structure
 sre-agent-langflow/
 │── README.md            # This file
