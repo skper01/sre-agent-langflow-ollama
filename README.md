@@ -36,13 +36,6 @@ ChromaDB (installed as Python package or containerized)
 
 
 
-📂 Project Structure
-sre-agent-langflow/
-│── README.md            # This file
-│── requirements.txt     # Dependencies
-│── flow.json            # Langflow export of the SRE Agent
-│── examples/            # Example input files
-
 ▶️ Usage
 
 Import flow.json into Langflow 1.5.13.
